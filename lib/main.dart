@@ -1,4 +1,4 @@
-import 'package:app_recursos_nativos/screens/place_screen.dart';
+import 'package:app_recursos_nativos/screens/place_form_screen.dart';
 import 'package:app_recursos_nativos/screens/places_list_screen.dart';
 import 'package:app_recursos_nativos/utils/app_routes.dart';
 import 'package:flutter/material.dart';
